@@ -5,7 +5,7 @@
 
 * MCU: STM32F103
 * Flash: W25Q32
-* 1.3 inch OLED
+* TFT Screen
 * 433Mhz RF Receiver
 * 8 Buttons
 * 6 x RGB LED
