@@ -1,4 +1,4 @@
-# Hacker's Badge for Hack In The Box 2018, Amsterdam
+# Hacker's Badge for Hack In The Box 2018, Singapore 
 
 - [x] Hardware: WhiteA10n3
 - [x] Code: WhiteA10n3 
